@@ -86,7 +86,7 @@ author:
   location         : "Brussels, Belgium"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=rWw6YrUAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Charles_Snyers2"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "csnyers"
+  github           : #"csnyers"
   google_plus      :
   keybase          :
   instagram        :
