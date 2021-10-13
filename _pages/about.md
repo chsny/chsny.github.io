@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD researcher in Metal Additive Manufacturing at the department of Mechanical Enginering of the Vrije Universiteit Brussel. 
+I am PhD researcher in Metal Additive Manufacturing at the department of Mechanical Engineering of the [Vrije Universiteit Brussel](https://www.vub.be/en/). 
 
-Research interests
- ======
- 1. Metal Additive Manufacturing (Directed Energy Deposition)
- 1. Machine Learning 
+# Research interests
+ 1. Optimization of the Directed Energy Deposition process by Machine Learning
+ 1. Deep Learning analysis of melt pool images
