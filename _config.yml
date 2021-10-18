@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Charles Snyers"
 title_separator          : "-"
-name                     : &name "Charles Snyers"
+name                     : "Charles Snyers" &name
 description              : &description "personal description"
 url                      : "https://charles.snyers.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=rWw6YrUAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Charles_Snyers2"
+  researchgate     :  #"https://www.researchgate.net/profile/Charles_Snyers2"
   uri              :
   bitbucket        :
   codepen          :
