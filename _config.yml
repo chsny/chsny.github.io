@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Charles Snyers"
   avatar           : "profile.jpg"
-  bio              : "PhD researcher in Metal Additive Manufacturing"
+  bio              : "Post-doctoral researcher in Metal Additive Manufacturing"
   location         : "Brussels, Belgium"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=rWw6YrUAAAAJ"
   email            : "charles.snyers@vub.be"
-  researchgate     :  #"https://www.researchgate.net/profile/Charles_Snyers2"
+  researchgate     :  "https://www.researchgate.net/profile/Charles_Snyers2"
   uri              :
   bitbucket        :
   codepen          :
