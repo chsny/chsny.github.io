@@ -1,5 +1,5 @@
 ---
-title: "2016 - Master's thesis: 3D-printed horizontal-axis wind turbine"
+title: "Master's thesis: 3D-printed horizontal-axis wind turbine"
 permalink: /portfolio/2016-mastersthesis
 excerpt: "Design and test of a horizontal-axis micro wind turbine by 3D-printing (Fused Deposition Modeling)."
 collection: portfolio

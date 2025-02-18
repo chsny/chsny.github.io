@@ -1,5 +1,5 @@
 ---
-title: "2024 to 2025 - Reinforcement Learning-based control of Directed Energy Deposition"
+title: "Reinforcement Learning-based control of Directed Energy Deposition"
 permalink: /projects/2024-DED-control-with-RL
 excerpt: ""
 collection: portfolio

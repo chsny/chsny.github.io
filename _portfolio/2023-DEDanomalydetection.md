@@ -1,5 +1,5 @@
 ---
-title: "2023 to 2024 - Deep Learning-based thermal anomaly detection in Directed Energy Deposition"
+title: "Deep Learning-based thermal anomaly detection in Directed Energy Deposition"
 permalink: /projects/2023-DED-anomaly-detection
 excerpt: ""
 collection: portfolio
