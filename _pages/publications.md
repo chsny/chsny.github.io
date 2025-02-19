@@ -6,13 +6,14 @@ author_profile: true
 ---
 ## Journal publications
 As first author:
-* 2024, **C. Snyers**, J. Ertveldt, K. Efthymiadis, and J. Helsen. Hyperspectral In-Situ Monitoring for Deep Learning-based Anomaly Classification in Metal Additive Manufacturing. IEEE Access:1–1. [[IEEE]](https://doi.org/10.1109/ACCESS.2024.3507370)
-* 2021, **C. Snyers**, J. Ertveldt, J. Sanchez-Medina, Z. Jardon, and J. Helsen. Prediction of build geometry for DED using supervised learning methods on simulated process monitoring data. Journal of Laser Applications, 33(4):042052. [[JLA]](https://doi.org/10.2351/7.0000526).
+* 2024, **C. Snyers**, J. Ertveldt, K. Efthymiadis, and J. Helsen. Hyperspectral In-Situ Monitoring for Deep Learning-based Anomaly Classification in Metal Additive Manufacturing. IEEE Access. [[IEEE]](https://doi.org/10.1109/ACCESS.2024.3507370)[[Dataset]](https://zenodo.
+org/records/10409569)
+* 2021, **C. Snyers**, J. Ertveldt, J. Sanchez-Medina, Z. Jardon, and J. Helsen. Prediction of build geometry for DED using supervised learning methods on simulated process monitoring data. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0000526)[[Code]](https://github.com/chsny/mosaic-temp)
 
 As co-author:
 * 2024, D. De Baere, J. Sanchez-Medina, **C. Snyers**, S. Fakher, Z. Jardon, M. Hinderdael, and J. Helsen. Validation of Spatial Accuracy with High Speed Imaging to Support In-Situ Flaw Detection for Laser Directed Energy Deposition Processes. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0001644)
 * 2024, J. Sanchez-Medina, Z. Jardon, **C. Snyers**, M. Hinderdael, P. Guillaume, and D. De Baere. A First Step Towards Designing Effective Real-Time Control Systems in Laser Directed Energy Deposition. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0001571)
-* 2023, J. Sanchez-Medina, D. De Baere, **C. Snyers**, Z. Jardon, M. Hinderdael, J. Ertveldt, and P. Guillaume. Comparison and Analysis of Hyperspectral Temperature Data in Directed Energy Deposition. Journal of Laser Applications, 35(4):042037. [[JLA]](https://doi.org/10.2351/7.0001074).
+* 2023, J. Sanchez-Medina, D. De Baere, **C. Snyers**, Z. Jardon, M. Hinderdael, J. Ertveldt, and P. Guillaume. Comparison and Analysis of Hyperspectral Temperature Data in Directed Energy Deposition. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0001074)
 
 ## Conference publications
 As first author:
@@ -31,5 +32,5 @@ Energy Deposition. In Procedia CIRP. LANE 2024. [[Procedia CIRP]](https://doi.or
 * ICALEO, Prediction of Build Geometry for DED Using Supervised Learning Methods on Simulated Process Monitoring Data, October 2021.
 
 ## Datasets
-* **Snyers, Charles**, Ertveldt, Julien, and Helsen, Jan. Dataset of Hyperspectral Melt Pool Signatures and Thermal Anomalies in DED of 316L steel. Dec. 19, 2023. [[Zenodo]](https://zenodo.
+* **C. Snyers**, J. Ertveldt, and J. Helsen. Dataset of Hyperspectral Melt Pool Signatures and Thermal Anomalies in DED of 316L steel. Dec. 19, 2023. [[Zenodo]](https://zenodo.
 org/records/10409569)
