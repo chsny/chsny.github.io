@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Journal publications
 As first author:
-* 2024, **C. Snyers**, J. Ertveldt, K. Efthymiadis, and J. Helsen. Hyperspectral In-Situ Monitoring for Deep Learning-based Anomaly Classification in Metal Additive Manufacturing. IEEE Access. [[IEEE]](https://doi.org/10.1109/ACCESS.2024.3507370)[[Dataset]](https://zenodo.
+* 2024, **C. Snyers**, J. Ertveldt, K. Efthymiadis, and J. Helsen. Hyperspectral In-Situ Monitoring for Deep Learning-based Anomaly Classification in Metal Additive Manufacturing. IEEE Access. [[IEEE]](https://doi.org/10.1109/ACCESS.2024.3507370) [[Dataset]](https://zenodo.
 org/records/10409569)
-* 2021, **C. Snyers**, J. Ertveldt, J. Sanchez-Medina, Z. Jardon, and J. Helsen. Prediction of build geometry for DED using supervised learning methods on simulated process monitoring data. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0000526)[[Code]](https://github.com/chsny/mosaic-temp)
+* 2021, **C. Snyers**, J. Ertveldt, J. Sanchez-Medina, Z. Jardon, and J. Helsen. Prediction of build geometry for DED using supervised learning methods on simulated process monitoring data. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0000526) [[Code]](https://github.com/chsny/mosaic-temp)
 
 As co-author:
 * 2024, D. De Baere, J. Sanchez-Medina, **C. Snyers**, S. Fakher, Z. Jardon, M. Hinderdael, and J. Helsen. Validation of Spatial Accuracy with High Speed Imaging to Support In-Situ Flaw Detection for Laser Directed Energy Deposition Processes. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0001644)
