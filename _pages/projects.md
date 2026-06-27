@@ -12,17 +12,21 @@ My current work focuses on applying **Machine Learning** techniques to address r
   <img src='/images/projects/2024 RL control/chap5_RL_POCstructure.png' width=500>
 </p>
 
-Directed Energy Deposition requires precise control of process variables to insure stable process conditions and avoid defects. However, the complexity of the process physics and the non-stationary nature of the process dynamics pose significant challenges to conventional control techniques. Reinforcement Learning (RL), a machine learning paradigm well-suited for control applications, offers greater adaptability and flexibility compared to conventional control techniques.
+Metal Additive Manufacturing requires precise control of process variables to insure stable process conditions and avoid defects. However, the complexity of the process physics and the non-stationary nature of the process dynamics pose significant challenges to conventional control techniques. Reinforcement Learning (RL), a machine learning paradigm well-suited for control applications, offers greater adaptability and flexibility compared to conventional control techniques.
 
-To address the challenges regarding DED control, this project uses a RL control framework based on a finite element simulation of the DED process. In this framework, the simulation computes the temperature field based on the laser power and scanning speed provided by the agent at every timestep. The agent uses the temperature information to steer the DED process towards stable conditions and correct problematic states as they are detected. The state space, action space and reward function of the environment are described to promote learning. A RL agent is trained successfully on the proposed environment and is able to control the melt pool temperature for several complex scanning paths. These results pave the way to an experimental RL controller of the DED process.
+<p align="center">
+  <img src='/images/projects/2024 RL control/methods_sim_3Dview.png' width=500>
+</p>
 
-## Deep Learning-based anomaly detection
+To address the challenges regarding DED control, this project uses a **RL control framework** based on a** finite element simulation of the metal Additive Manufacturing process**. In this framework, the simulation computes the temperature field based on the laser power and scanning speed provided by the agent at every timestep. The agent uses the temperature information to steer the DED process towards stable conditions and correct problematic states as they are detected. The state space, action space and reward function of the environment are described to promote learning. A RL agent is trained successfully on the proposed environment and is able to control the melt pool temperature for several complex scanning paths. These results pave the way to an experimental RL controller of the DED process.
+
+## Deep Learning-based anomaly and composition detection
 
 <p align="center">
   <img src='/images/projects/2023 anomaly detection/anomaly detection_graphabstract.png' width=700>
 </p>
 
-Directed Energy Deposition requires process monitoring to ensure the highest part quality. Detecting and avoiding material defects to meet high material requirements remains a challenge due to the complexity of the process. 
+Metal Additive Manufacturing requires process monitoring to ensure the highest part quality. Detecting and avoiding material defects to meet high material requirements remains a challenge due to the complexity of the process.
 
 To address this challenge, this study presents a novel approach that combines hyperspectral imaging with convolutional neural networks to classify process anomalies. Hyperspectral in-situ monitoring captures the light emitted from the melt pool over the 2 spatial axis, but also over the spectral axis. The proposed classification model reaches an accuracy in excess of 94% over the validation set. The classification mechanism of the proposed model is investigated thanks to the Guided GradCAM visualization method and links with the melt pool temperature distribution are formulated. The inference speed of the optimized model is measured and shown to be compatible with realtime applications.
 
