@@ -4,9 +4,17 @@ title: "Current projects"
 permalink: /research-projects/
 author_profile: true
 ---
-My current work focuses on applying **Machine Learning** techniques to address reliability challenges in **Metal Additive Manufacturing**. The process that I am working on is Directed Energy Deposition, a laser and blown powder process. 
+My current work focuses on applying **Machine Learning** and **Deep Learning** techniques to address reliability challenges in **Metal Additive Manufacturing**. The process that I am working on is Directed Energy Deposition, a laser and blown powder process. 
 
-## Reinforcement Learning-based control
+## In-situ prediction of 316L-CuCr1Zr multi-material composition with Deep Learning
+
+<p align="center">
+  <img src='/images/projects/2026 multimaterial prediction/graphabstract.png' width=500>
+</p>
+
+This work investigates the use of hyperspectral imaging and deep learning to monitor material composition during laser-based Directed Energy Deposition (DED). A convolutional neural network (CNN) was developed to analyse in-situ near-infrared hyperspectral images and predict local composition during the fabrication of 316L stainless steel–CuCr1Zr copper multi-material structures. The approach enables real-time identification of compositional transitions and deviations from the designed material gradient, paving the way for closed-loop process control and more reliable manufacturing of functionally graded metallic components. See [publication](https://www.sciencedirect.com/science/article/pii/S2214860426002952).
+
+## Reinforcement Learning-based MIMO control
 
 <p align="center">
   <img src='/images/projects/2024 RL control/chap5_RL_POCstructure.png' width=500>
@@ -20,7 +28,7 @@ Metal Additive Manufacturing requires precise control of process variables to in
 
 To address the challenges regarding DED control, this project uses a **RL control framework** based on a **finite element simulation of the metal Additive Manufacturing process**. In this framework, the simulation computes the temperature field based on the laser power and scanning speed provided by the agent at every timestep. The agent uses the temperature information to steer the DED process towards stable conditions and correct problematic states as they are detected. The state space, action space and reward function of the environment are described to promote learning. A RL agent is trained successfully on the proposed environment and is able to control the melt pool temperature for several complex scanning paths. These results pave the way to an experimental RL controller of the DED process.
 
-## Deep Learning-based anomaly and composition detection
+## Deep Learning-based in-situ anomaly detection
 
 <p align="center">
   <img src='/images/projects/2023 anomaly detection/anomaly detection_graphabstract.png' width=700>
@@ -28,7 +36,7 @@ To address the challenges regarding DED control, this project uses a **RL contro
 
 Metal Additive Manufacturing requires process monitoring to ensure the highest part quality. Detecting and avoiding material defects to meet high material requirements remains a challenge due to the complexity of the process.
 
-To address this challenge, this study presents a novel approach that combines hyperspectral imaging with **Convolutional Neural Networks to classify process anomalies**. Hyperspectral in-situ monitoring captures the light emitted from the melt pool over the 2 spatial axis, but also over the spectral axis. The proposed classification model reaches an accuracy in excess of 94% over the validation set. The classification mechanism of the proposed model is investigated thanks to the Guided GradCAM visualization method and links with the melt pool temperature distribution are formulated. The inference speed of the optimized model is measured and shown to be compatible with realtime applications.
+To address this challenge, this study presents a novel approach that combines hyperspectral imaging with **Convolutional Neural Networks to classify process anomalies**. Hyperspectral in-situ monitoring captures the light emitted from the melt pool over the 2 spatial axis, but also over the spectral axis. The proposed classification model reaches an accuracy in excess of 94% over the validation set. The classification mechanism of the proposed model is investigated thanks to the Guided GradCAM visualization method and links with the melt pool temperature distribution are formulated. The inference speed of the optimized model is measured and shown to be compatible with realtime applications. See [publication](https://ieeexplore.ieee.org/document/10769412).
 
 ## Melt pool temperature estimation with multicolor pyrometry
 

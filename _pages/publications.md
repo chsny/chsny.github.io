@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Journal publications
 As first author:
+* 2026, **C. Snyers**,  H. Houban, Z. Jardon, R. I. Revilla, D. De Baere, J. Helsen and Michaël Hinderdael. Data-driven prediction of nominal composition of a steel to copper multi material using hyperspectral in-situ monitoring of the Directed Energy Deposition process. Additive Manufacturing. [[AddMan]](https://www.sciencedirect.com/science/article/pii/S2214860426002952)
 * 2024, **C. Snyers**, J. Ertveldt, K. Efthymiadis, and J. Helsen. Hyperspectral In-Situ Monitoring for Deep Learning-based Anomaly Classification in Metal Additive Manufacturing. IEEE Access. [[IEEE]](https://doi.org/10.1109/ACCESS.2024.3507370) [[Dataset]](https://zenodo.
 org/records/10409569)
 * 2021, **C. Snyers**, J. Ertveldt, J. Sanchez-Medina, Z. Jardon, and J. Helsen. Prediction of build geometry for DED using supervised learning methods on simulated process monitoring data. Journal of Laser Applications. [[JLA]](https://doi.org/10.2351/7.0000526) [[Code]](https://github.com/chsny/mosaic-temp)
@@ -26,6 +27,7 @@ Energy Deposition. In Procedia CIRP. LANE 2024. [[Procedia CIRP]](https://doi.or
 * 2024, Z. Jardon, K. Van Meensel, J. Sanchez-Medina, **C. Snyers**, M. Hinderdael, D. De Baere, and L. Pyl. Optimization of Hybrid Directed Energy Deposition through Production and Microstructure Assessment. In Procedia CIRP. LANE 2024. [[Procedia CIRP]](https://doi.org/10.1016/j.procir.2024.08.127)
 
 ## Talks
+* AIMET, Development of a Model-Free RL MIMO Controller for Directed Energy Deposition using a Simulation-Based Framework  ,September 2026.
 * EUROMAT, Deep Learning Anomaly Detection in Directed Energy Deposition using Hyperspectral In-Situ Monitoring Data, September 2023.
 * Measuring By Light, Towards classification of the near-infrared melt pool signature in Directed Energy Deposition, March 2023.
 * ASTM International Conference on Additive Manufacturing, Prediction of Build Geometry for DED Using Supervised Learning Methods on Optical Measurement Data, November 2021.

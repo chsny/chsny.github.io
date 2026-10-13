@@ -15,6 +15,6 @@ I received my Master's degree in Electromechanical Engineering from [Université
 Before working in academia, I worked in the aerospace sector, at [Safran Aero Boosters](https://www.safran-group.com/companies/safran-aero-boosters) as a R&T Engineer and at the [European Space Agency](https://www.esa.int/) as a National Trainee. 
 
 # Research interests
- - Optimization of the steady-state Directed Energy Deposition (DED) process using temperature estimation and Machine Learning methods
- - Deep Learning anomaly detection in DED using in-situ hyperspectral melt pool images
+ - Data-Driven Composition Monitoring for Multi-Material Additive Manufacturing.
  - Reinforcement Learning control of the DED process
+ - Deep Learning anomaly detection in DED using in-situ hyperspectral melt pool images
